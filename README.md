@@ -4,8 +4,6 @@
 
 > Weather
 
-Projeto construído do evento Next Level Week da Rocketseat
-
 🔗[Clique aqui para acessar](https://igoorcodi.github.io/weather-app/)
 
 ## 💻Tecnologias Aplicadas no projeto
